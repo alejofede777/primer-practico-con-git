@@ -1,0 +1,6 @@
+en esta clase estamos aprendiendo git
+
+git
+github
+
+instalacion de git
